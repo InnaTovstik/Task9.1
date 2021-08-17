@@ -24,7 +24,6 @@ public class Tree {
         }
     }
 
-
     public void print() {
         printRecursive(root);
     }
